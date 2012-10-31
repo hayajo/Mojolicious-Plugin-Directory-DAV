@@ -1,4 +1,5 @@
 use inc::Module::Install;
+use Module::Install::Repository;
 name 'Mojolicious-Plugin-Directory-DAV';
 all_from 'lib/Mojolicious/Plugin/Directory/DAV.pm';
 
